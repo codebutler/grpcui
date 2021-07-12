@@ -1,6 +1,6 @@
 module github.com/fullstorydev/grpcui
 
-go 1.13
+go 1.16
 
 require (
 	github.com/fullstorydev/grpcurl v1.8.1
