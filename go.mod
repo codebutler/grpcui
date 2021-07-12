@@ -2,6 +2,8 @@ module github.com/codebutler/grpcui
 
 go 1.16
 
+replace github.com/fullstorydev/grpcui -> github.com/codebutler/grpcui
+
 require (
 	github.com/fullstorydev/grpcurl v1.8.1
 	github.com/go-bindata/go-bindata v0.0.0-20191126083508-8639be0519b3 // indirect
